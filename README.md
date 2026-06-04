@@ -1,21 +1,20 @@
-I am Angela Mae Visnar and I am a game developer and an artist.
+ANGELA MAE C. VISNAR
+Technical Artist | UI/UX Designer | Game Development Student
 
-Resume Link: [Angela Visnar CV.pdf](https://github.com/user-attachments/files/26331603/Angela.Visnar.CV.pdf)
+Resume Link: [Angela Visnar CV.pdf](https://github.com/Mentsao/Angela-Mae-Visnar-CV-Portfolio/blob/main/2026_AMCVisnar_ATSFResume.pdf)
 
 ###Projects
 
 1. Ptooey!
    
-Multiplayer cooking game where you play as 2 chef rats. 3d Modeled rats. https://github.com/TheJester05/Ptooey/tree/main
+Multiplayer cooking game made in Unity, using Photon. 3d Arttist and Techinical Artist: https://github.com/TheJester05/Ptooey/tree/main
 
-3. Mask-a-Raid
+2. Mask-a-Raid
    
-Zombie stealth game. Worked as a 3d artist that specifically models https://github.com/Mentsao/Global-Game-Jam-2026
+Zombie Stealth Game made and submitted for Global Game Jam 2026. Worked as a 3d artist and technical artist: https://github.com/Mentsao/Global-Game-Jam-2026
 
-4. Portal
+3. Portal
    
-Portal effect using Unity Shader Graph. https://github.com/Mentsao/CompGraphFinals
+Student project. Portal effect using Unity Shader Graph. https://github.com/Mentsao/CompGraphFinals
 
-ArtStation: https://www.artstation.com/angelav
-
-I am an artist, programmer that can code in C#, specifically in Unity, and VFX artist in Unity.
+My art portfolio: ArtStation: https://www.artstation.com/angelav
