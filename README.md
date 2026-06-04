@@ -1,7 +1,7 @@
 ANGELA MAE C. VISNAR
 Technical Artist | UI/UX Designer | Game Development Student
 
-Resume Link: [Angela Visnar CV.pdf](https://github.com/Mentsao/Angela-Mae-Visnar-CV-Portfolio/blob/main/2026_AMCVisnar_ATSFResume.pdf)
+Resume Link: [Angela Visnar Resume.pdf](https://github.com/Mentsao/Angela-Mae-Visnar-CV-Portfolio/blob/main/2026_AMCVisnar_ATSFResume.pdf)
 
 ###Projects
 
