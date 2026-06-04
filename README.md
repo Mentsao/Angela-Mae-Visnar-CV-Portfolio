@@ -1,6 +1,6 @@
 I am Angela Mae Visnar and I am a game developer and an artist.
 
-CV Link: [Angela Visnar CV.pdf](https://github.com/user-attachments/files/26331603/Angela.Visnar.CV.pdf)
+Resume Link: [Angela Visnar CV.pdf](https://github.com/user-attachments/files/26331603/Angela.Visnar.CV.pdf)
 
 ###Projects
 
